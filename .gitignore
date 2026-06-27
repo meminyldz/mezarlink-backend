@@ -1,0 +1,19 @@
+# Maven build çıktısı
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Ortam değişkenleri / sırlar (varsa)
+.env
